@@ -7,7 +7,7 @@ import re
 import graphviz
 
 #Global Variables
-p1_filename = sys.argv[0]
+this_program = sys.argv[0]
 reference_genome = sys.argv[1]
 
 
