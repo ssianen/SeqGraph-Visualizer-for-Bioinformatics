@@ -13,7 +13,7 @@ reference_genome = sys.argv[1]
 
 def main():
     '''
-    Input: Small FASTA file of sequenced reads, flags where the flags are the following options:
+    Input: Small FASTA file of sequenced reads, where the flags are the following options:
            -O for overlap graphs
            -D for deBruijn graphs
     Output: Overlap graph or deBruijn graph written to new files
