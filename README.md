@@ -1,4 +1,4 @@
-SeqGraph for Bioinformatics Applications
+**SeqGraph for Bioinformatics Applications**
 
 - Programmed in Python, this program generates an overlap graph or de Bruijn graph by applying prefix-suffix matching to the given FASTA file.
 
